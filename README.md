@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) on the World Populat
 
 ## Project Overview
 
-This project uses a dataset containing country population data and their growth rates over the years. The goal is to uncover meaningful patterns, identify outliers, and visualize the data to better understand population dynamics.
+This project uses a dataset containing country population data and their growth rates over the years.
 
 ## Key Features
 
@@ -18,8 +18,7 @@ This project uses a dataset containing country population data and their growth 
 The dataset used in this analysis contains the following columns:
 - `Country`: Name of the country
 - `Year`: Year of data entry
-- `Population`: Total population of the country for that year
-- `Growth Rate`: Growth rate of the population for that year
+
 - 
 ## Source : Kaggle - https://www.kaggle.com/datasets/sazidthe1/world-population-data
 
@@ -31,7 +30,3 @@ To run the code and replicate the analysis, you'll need the following Python lib
 - matplotlib
 - seaborn
 - plotly (optional, for interactive plots)
-
-You can install the required libraries using pip:
-```bash
-pip install -r requirements.txt
