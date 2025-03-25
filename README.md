@@ -1,4 +1,4 @@
-# EDA-World Population Data from 1970s to 2023
+# EDA-World Population Data from 1970 to 2023
 
 This repository contains an exploratory data analysis (EDA) on the World Population Data. The project aims to analyze trends, patterns, and insights into population growth over time across different countries.
 
